@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools" tools:context=".ImagesActivity">
+    <item android:id="@+id/action_log_out" android:title="@string/log_out" android:orderInCategory="100" app:showAsAction="withText" android:icon="@drawable/ic_log_out" />
+    <item android:id="@+id/download_apk" android:title="@string/download_apk" android:orderInCategory="100" app:showAsAction="withText" android:icon="@drawable/ic_download" />
+</menu>
